@@ -1,0 +1,16 @@
+header {
+    background: url("header.jpg");
+    height: 200px;
+}
+
+header h1 {
+    text-align: left;
+    color: #ffffff;
+    padding-top: 80px;
+}
+
+header h2 {
+    text-align: right;
+    color: #ffffff;
+    padding-top: 80px;
+}
