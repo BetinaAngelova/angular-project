@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+=======
+.navbar {
+    background: url("../../../images/header.jpg");
+    height: 200px;
+}
+
+.navbar .navbar-nav li  {
+    text-align: right;
+    color: #ffffff;
+    padding-top: 80px;
+}
+>>>>>>> server-changes
